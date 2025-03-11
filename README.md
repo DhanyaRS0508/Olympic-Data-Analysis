@@ -57,13 +57,10 @@ This project aims to **analyze Olympic Games data**, focusing on **athlete perfo
 
 ### **2️⃣ Athlete Performance Dashboard**  
 - Performance trends across multiple Olympic Games.  
-- Comparison of athlete statistics based on disciplines.  
-![Athlete Performance](output/Dashboard2.png)  
-
-### **3️⃣ Participation by Gender Dashboard**  
+- Comparison of athlete statistics based on disciplines.
 - Gender-based distribution of Olympic participants.  
-- Trends in gender participation across different events.  
-![Participation by Gender](images/gender_participation.png)  
+- Trends in gender participation across different events.
+![Athlete Performance](output/Dashboard2.png)  
 
 ## 🚀 Getting Started  
 

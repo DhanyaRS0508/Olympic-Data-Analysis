@@ -53,12 +53,12 @@ This project aims to **analyze Olympic Games data**, focusing on **athlete perfo
 ### **1️⃣ Medal Count Dashboard**  
 - Total **gold, silver, and bronze medals** won by each country.  
 - Top-performing countries based on medal counts.  
-![Medal Count Dashboard](images/medal_dashboard.png)  
+![Medal Count Dashboard](output/dashboard1.png)  
 
 ### **2️⃣ Athlete Performance Dashboard**  
 - Performance trends across multiple Olympic Games.  
 - Comparison of athlete statistics based on disciplines.  
-![Athlete Performance](images/athlete_performance.png)  
+![Athlete Performance](output/dashboard2.png)  
 
 ### **3️⃣ Participation by Gender Dashboard**  
 - Gender-based distribution of Olympic participants.  
